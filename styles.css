@@ -4,5 +4,13 @@ body {
 }
 
 a{
+    color:darkslateblue;
+}
+
+ul{
     list-style: none;
+}
+
+h1 {
+    font-family: 'Courier New' , Georgia, Arial, Helvetica, sans-serif;
 }
