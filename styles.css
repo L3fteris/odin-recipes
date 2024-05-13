@@ -1,5 +1,8 @@
 body {
     background-color: burlywood;
+}
+
+body#intex{
     text-align: center;
 }
 
@@ -7,10 +10,11 @@ a{
     color:darkslateblue;
 }
 
-ul{
+ul#intex{
     list-style: none;
 }
 
-h1 {
+h1, h2 {
+    text-align: center;
     font-family: 'Courier New' , Georgia, Arial, Helvetica, arial;
 }
